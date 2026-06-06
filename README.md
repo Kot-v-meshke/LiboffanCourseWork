@@ -72,35 +72,21 @@
 
 ## Скриншоты приложения
 
-### Авторизация
-![Авторизация](documents/screenshots/authorization.png)
-*Экран входа в приложение с JWT-аутентификацией*
-
-### Главный экран (Каталог историй)
-![Главный экран](documents/screenshots/main.png)
-*Каталог историй с отображением ответвлений и тегов*
-
-### Поиск и фильтрация
-![Поиск](documents/screenshots/SearchScreen.png)
-*Расширенный поиск по названию, тегам, фандомам и возрастному рейтингу*
-
-### Информация о книге
-![Информация о книге](documents/screenshots/bookInfoScreen.png)
-*Страница с информацией о книге с синопсисом, рейтингом и тегами*
-
-### Создание истории
-![Создание истории](documents/screenshots/storyCreation.png)
-*Форма создания новой истории с выбором тегов и возрастного рейтинга*
-
-### AI-редактирование текста
-![AI-редактор](documents/screenshots/AiEditScreen.png)
-*Интеллектуальное редактирование текста с помощью локальной AI-модели Ollama*
-
-### Профиль и библиотека
-![Профиль](documents/screenshots/profile.png)
-*Персональная библиотека с вкладками статусов чтения*
-
----
+<table>
+  <tr>
+    <td align="center"><b>Авторизация</b><br><img src="documents/screenshots/authorization.jpg" width="250"><br><i>Экран входа с JWT-аутентификацией</i></td>
+    <td align="center"><b>Главный экран</b><br><img src="documents/screenshots/main.jpg" width="250"><br><i>Каталог историй с ответвлениями</i></td>
+    <td align="center"><b>Поиск</b><br><img src="documents/screenshots/SearchScreen.jpg" width="250"><br><i>Фильтрация по тегам и фандомам</i></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Информация о книге</b><br><img src="documents/screenshots/bookInfoScreen.jpg" width="250"><br><i>Синопсис, рейтинг и теги</i></td>
+    <td align="center"><b>Создание истории</b><br><img src="documents/screenshots/storyCreation.jpg" width="250"><br><i>Форма создания новой истории</i></td>
+    <td align="center"><b>AI-редактор</b><br><img src="documents/screenshots/AiEditScreen.png" width="250"><br><i>Редактирование с Ollama</i></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><b>Профиль и библиотека</b><br><img src="documents/screenshots/profile.jpg" width="250"><br><i>Персональная библиотека с вкладками статусов</i></td>
+  </tr>
+</table>
 
 ## Быстрый старт
 
