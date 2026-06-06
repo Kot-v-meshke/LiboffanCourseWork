@@ -56,6 +56,12 @@
 
 ---
 
+## Скачать приложение
+
+**APK файл:**  
+[Скачать Liboffan.apk](Liboffan.apk)  
+*Прямая ссылка для установки на Android-устройство*
+
 
 ##  Экраны приложения
 
@@ -222,11 +228,11 @@ Liboffan/
 
 | Тип | Файл |
 |-----|------|
+| **Курсовая word** | [документы/курсовая.pdf](documents/курсовая.docx) |
 | **Курсовая pdf** | [документы/курсовая.pdf](documents/курсовая.pdf) |
-| **Курсовая word** | [документы/курсовая.pdf](documents/курсовая.pdf) |
 | **Презентация powerpoint** | [документы/Презентация.pptx](documents/Презентация.pptx) |
 | **Презентация pdf** | [документы/Презентация.pdf](documents/Презентация.pdf) |
-| **Демонстрация** | [документы/Видео.mp4](documents/Видео.mp4) |
+| **Видео (Google Drive)** | [Смотреть онлайн](https://drive.google.com/file/d/1ANbkTkIAe0cLIInlx2-lS4OH6Yi3P5IH/view?usp=sharing) |
 
 ## Тестирование
 
@@ -259,3 +265,4 @@ Liboffan/
 **Разработчик:**  Щеблыкина Арина Вадимовна 
 **Email:** [arina.cheblikiba@gmail.com]  
 **GitHub:** [@Kot-v-meshke](https://github.com/Kot-v-meshke)
+
